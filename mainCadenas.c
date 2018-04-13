@@ -45,3 +45,12 @@ int main()
 
     return 0;
 }
+
+/*tarea:
+declarar 3 variables
+char nombre[definir cantidad de caracteres];
+char apellido[defi...];
+char apellidoynombre[defin...];
+
+usuario ingresa apellido, ingresa nombre y en la variable apellidoynombre deberia quedar "Franco, Cortez"
+la variable apellido y la variable nombre no se tocan*/
